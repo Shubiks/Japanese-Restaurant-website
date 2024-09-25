@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -109,4 +110,40 @@ nav .nav2{
 .btn:hover{
     background-color: rgb(239, 122,30, 0.712);
     transform: translate(20px);
+}
+
+.sec2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+.sec2 .image img{
+    width: 40vw;
+    max-width: 600px;
+}
+
+.sec2 .content{
+    max-width: 40vw;
+}
+
+.sec2 h2{
+    font-family: cedarville cursive ;
+    font-size: 45px;
+    color: rgb(241, 147, 73);
+}
+
+.sec2 .content h1{
+    color: rgb(57, 33, 55);
+    font-size: 45px;
+    margin-bottom: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sec2 .content p{
+    color: rgb(109, 97, 110);
+    margin-bottom:30px ;
+    font-size: 15px;
+    line-height: 25px;
 }
