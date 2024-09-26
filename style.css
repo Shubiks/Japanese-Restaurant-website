@@ -306,3 +306,30 @@ nav .nav2{
     padding: 10px 20px;
     cursor: pointer;
 }
+
+.sec6{
+    padding: 0% 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec6 img{
+    width: 200px;
+}
+.sec6 div{
+    max-width: 200px;
+}
+
+.sec6 ul li:first-child{
+    font-weight: 700;
+}
+
+.sec6 li, .sec6 p{
+    padding: 10px 0;
+}
+
+.sec6 p, .sec6{
+    color: gray;
+    font-size: 14px;
+    line-height: 22px;
+}
