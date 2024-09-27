@@ -1,7 +1,6 @@
 # Japanese-Restaurant-website
-# My Website
 
-Welcome to my personal website! This site showcases my projects, skills, and experiences. It is built using HTML, CSS.
+This project showcases my skills and experience in  HTML, CSS.
 
 ## Table of Contents
 
