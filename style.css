@@ -328,8 +328,21 @@ nav .nav2{
     padding: 10px 0;
 }
 
-.sec6 p, .sec6{
+.sec6 p, 
+.sec6{
     color: gray;
     font-size: 14px;
     line-height: 22px;
+}
+
+.sec6 a:hover{
+    color: rgb(239, 122, 30);
+}
+
+.footer{
+    text-align: center;
+    padding: 1.5% 0;
+    margin-top: 7%;
+    font-size: 14px;
+    background-color: rgb(239, 121, 30, 0.3);
 }
