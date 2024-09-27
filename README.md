@@ -15,7 +15,7 @@ Welcome to my personal website! This site showcases my projects, skills, and exp
 
 ## Demo
 
-You can view the live demo of the website [here]().
+You can view the live demo of the website [here](https://shubiks.github.io/Japanese-Restaurant-website/).
 
 ## Features
 
@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any questions or suggestions, feel free to reach out:
 
 ## Email: s35351342@gmail.com
-##GitHub: Shubiks
+## GitHub: https://github.com/Shubiks
 
 Thank you for visiting my website!
 
