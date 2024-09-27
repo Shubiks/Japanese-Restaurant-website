@@ -52,7 +52,7 @@ form{
     margin-bottom: 5px;
 }
 .login input{
-    pad: 10px;
+    padding: 10px;
     width: 100%;
     outline: none;
     border: 1px solid rgba(128, 128, 128, 0.1);
@@ -88,9 +88,9 @@ form{
     margin-top: 20px;
 }
 
-.login .signup span{
+ .login .signup span{
     color: black;
-    font-weight: bold;
+    font-weight: 100;
 }
 
 
